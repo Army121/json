@@ -1,7 +1,7 @@
 [
   {
     "articleStyle": 0,
-    "customOrder": 001,
+    "customOrder": 101,
     "enableJs": true,
     "enabled": true,
     "loadWithBaseUrl": true,
@@ -13,7 +13,7 @@
   },
   {
     "articleStyle": 0,
-    "customOrder": 002,
+    "customOrder": 102,
     "enableJs": true,
     "enabled": true,
     "loadWithBaseUrl": true,
@@ -25,7 +25,7 @@
   },
     {
     "articleStyle": 0,
-    "customOrder": 003,
+    "customOrder": 103,
     "enableJs": true,
     "enabled": true,
     "loadWithBaseUrl": true,
