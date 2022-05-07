@@ -1,0 +1,38 @@
+[
+  {
+    "articleStyle": 0,
+    "customOrder": 001,
+    "enableJs": true,
+    "enabled": true,
+    "loadWithBaseUrl": true,
+    "singleUrl": true,
+    "sourceGroup": "🎬 大陆",
+    "sourceIcon": "https://p0.meituan.net/dpgroup/cd088044f183d2719f3f9fe56d5c34204207.png",
+    "sourceName": "茶杯狐",
+    "sourceUrl": "https://cupfox.app/"
+  },
+  {
+    "articleStyle": 0,
+    "customOrder": 002,
+    "enableJs": true,
+    "enabled": true,
+    "loadWithBaseUrl": true,
+    "singleUrl": true,
+    "sourceGroup": "🎬 大陆",
+    "sourceIcon": "https://duboku.ru/template/mytheme/statics/img/logo.png",
+    "sourceName": "独播库",
+    "sourceUrl": "https://duboku.ru/"
+  },
+    {
+    "articleStyle": 0,
+    "customOrder": 003,
+    "enableJs": true,
+    "enabled": true,
+    "loadWithBaseUrl": true,
+    "singleUrl": true,
+    "sourceGroup": "🎬 大陆",
+    "sourceIcon": "https://svip.bljiex.cc/favicon.ico",
+    "sourceName": "BL解析",
+    "sourceUrl": "https://svip.bljiex.cc/"
+  }
+  ]
