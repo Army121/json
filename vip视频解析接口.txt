@@ -1,0 +1,689 @@
+VIP视频解析接口
+
+1.黑云视频解析
+官网:https://www.daheiyun.com/
+接口：https://jiexi.380k.com/?url=
+
+2.千亿解析
+接口：https://www.qianyicp.com/jiexi/?url=
+
+3.付费视频解析
+https://660e.com/?url=
+
+4.此页面几十个接口 未测试
+http://tv.wandhi.com/go.html
+
+5.思古解析
+https://api.sigujx.com/?url=
+
+6.速度比思古稳定
+https://jx.ivito.cn/?url= 维多解析（超清）
+
+http://api.baiyug.vip/index.php?url=
+https://jx40.net/url=
+http://jx.bwcxy.com/?v= 初心解析
+
+http://jx.wodym.cn/?url= 初颜解析
+
+http://jx.rdhk.net/?v= Hk解析
+
+http://www.xyyh.xyz/zwjx/?url= 知网解析
+
+https://jx.fo97.cn/?url= 星空解析
+
+https://play.fo97.cn/?url= 全网vip
+
+http://yun.360dy.wang/jx.php?url= 360dy解析
+
+https://www.kpezp.cn/jlexi.php?url= 小蒋极致
+
+https://jx.ivito.cn/?url= 维多解析（超清）
+
+http://app.hoptc.cn/dyjx.php?url= 云梦2
+
+https://api.tv920.com/vip/?url= tv920解析
+
+http://www.ka61b.cn/jx.php?url= 89免费解析
+
+http://www.xiashipin.net/?url= 下视频
+
+http://www.guandianzhiku.com/v/s/?url= 智库解析http://nitian9.com/?url= 逆天解析
+
+http://buchi.me/?v= 羊分享
+
+http://api.iifen.top/?v= 爱分享
+
+http://jx.xyplay.vip/?url= XyPlayer解析
+
+http://api.lhh.la/vip/?url= 豪华啦https://jx40.net/url= 40解析
+
+http://api.51ds.shop/jx/?url= 无名影视http://api.sumingys.com/index.php?url= 宿命解析
+
+https://vip.zlkkk.shop/2019/?url= ZLVIP
+
+http://api.8bjx.cn/?url= 8B解析
+
+https://v.qianyicp.com/v.php?url= 千忆解析
+
+https://mcncn.cn/?url= 梦城
+
+https://jx.f41.cc/?url= 114解析
+
+https://www.ckmov.vip/api.php?url= 解析系统
+
+http://k8aa.com/jx/index.php?url= 超清干货
+
+http://api.greatchina56.com/?url= 七星解析1
+
+https://vip.bljiex.com/?v= bl解析
+
+http://111ys.cn/111/?url= 熊猫解析
+
+http://jx.ejiafarm.com/x/jiexi.php?url= 穷二代
+
+http://cn.bjbanshan.cn/jx.php?url= 517解析
+
+https://v.qianyicp.com/v.php?url= 千亿
+
+http://www.xiashipin.net/?url= 小视频
+
+http://apk.528kan.cn/index.php?url= 52解析
+
+https://wq66.cn/?url= 丸酷解析
+
+https://jx.qppyy.com/jx/?url= 智能解析http://jx.618ge.com/?url= 618戈
+
+http://jx.mw0.cc/?url= 凉城解析
+
+http://69p.top/?url= 解析
+
+https://vip.bddjx.com/?url= 播大大
+
+http://www.33tn.cn/?url= 爸比解析
+
+http://jx.cesms.cn/?url= 大亨解析
+
+https://jx.zhaodh.top/?v= 赵先森http://www.cqhwdnwx.com/jx/?url= 宏伟解析
+
+http://www.lexiangsj.xyz/?v= 地久天长
+
+http://jx.nxnns47.cf/?v= 47解析
+
+http://jx.1ff1.cn/?url= 1ff1解析
+
+http://vip.116kan.com/?url= 116kan
+
+http://jx.hongyishuzhai.com/index.php?url= 弦易阁
+
+http://55jx.top/?url= 55解析
+
+https://jx.000180.top/jx/?url= 00180
+
+http://qx.c7776.com/v3/?v= 七星
+
+https://jx.128sp.com/jxjx/?url= 128解析
+
+http://19g.top/?url= 19解析
+
+http://jx.6666txt.com/?url= 无极速
+
+http://app.baiyug.cn:2019/vip/?url= 云易1
+
+https://vip.bddjx.com/?url= 云易2
+
+http://www.cuan.la/?url= 秒播解析
+
+https://vod.265ks.com/vod/index.php?url= 265解析
+
+http://ys.1969com.cn/?url= 1969解析
+
+https://jx.youqi.tw/v.php?url= 优奇高速稳定
+
+https://api.3456yun.com/?url= 云解析
+
+http://jx.rdhk.net/?v= 热点解析
+
+http://py.ha12.xyz/sos/index.php?url= ha12解析
+
+https://jx.9ku.wang/9ku/?url= 9酷解析
+
+http://jx.duzhiqiang.com/?url= 冰河解析
+
+https://lany.lzure.kim/?v= 智能解析
+
+http://111jx.xyz/?url= 狸猫解析
+
+http://gege.ha123.club/gege1234/index.php?url= 云解析
+
+http://fateg.xyz/?url= 清风明月
+
+http://api.huahuay.com/?url= 花语有你
+
+http://www.85105052.com/admin.php?url= 综合线路⑨
+
+https://yun.odflv.com/?url= 综合线路⑪(不太稳定)
+
+http://www.82190555.com/video.php?url= 综合线路⑫
+
+http://jx.598110.com/duo/index.php?url= 综合线路②
+
+http://jx.598110.com/index.php?url= 综合线路①
+
+http://le.206dy.com/vip.php?url= 优酷 稳定
+
+http://api.hlglwl.com/jx.php?url= 腾讯 ☆ 爱奇艺 √ 优酷
+
+http://www.1717yun.com/jx/ty.php?url= 通用vip接口3
+
+https://jx.128sp.com/jxjx/?url= 玩的嗨——42-
+
+http://py.ha12.xyz/sos/index.php?url= 玩的嗨——41-
+
+https://jx.hezeshi.net/ce/jlexi.php?url= 玩的嗨—40-
+
+https://beaacc.com/api.php?url= 玩的嗨——39-
+
+https://cdn.yangju.vip/k/?url= 玩的嗨——38-
+
+https://www.myxin.top/jx/api/?url= 玩的嗨——37-
+
+http://jx.cesms.cn/?url= 玩的嗨——36-
+
+http://jx.618ge.com/?url= 玩的嗨——34-
+
+http://jx.598110.com/?url= 玩的嗨——33-
+
+http://jx.hanximeng.com/api.php?url= 玩的嗨——31-
+
+http://vip.jlsprh.com/v/4.php?url= 玩的嗨——30-
+
+http://jx.aeidu.cn/index.php?url= 玩的嗨——29-
+
+https://jqaaa.com/jx.php?url= 玩的嗨——25-
+
+http://www.1717yun.com/jx/ty.php?url= 玩的嗨——24-
+
+https://player.baodai.org/ipsign/player.php?v= 玩的嗨——23-
+
+https://ejiafarm.com/jx.php?url= 玩的嗨——22-
+
+https://000o.cc/jx/ty.php?url= 玩的嗨——21-
+
+https://api.xiguaimg.com/odflv105/index.php?url= 玩的嗨——20-
+
+https://030e.com/0302/?url= 玩的嗨——19-
+
+http://app.baiyug.cn:2019/vip/?url= 玩的嗨——18-
+
+http://api.pucms.com/jx/api/?url= 玩的嗨——17-
+
+http://api.smq1.com/?url= 玩的嗨——15-
+
+http://17kyun.com/api.php?url= 玩的嗨——16-
+
+http://www.luckyblank.cn/wuxinjx/?url= 玩的嗨——14-
+
+https://jx.618g.com/?url= 玩的嗨——13-
+
+https://jiexi.071811.cc/jx.php?url= 玩的嗨——12-
+
+https://jiexi.071811.cc/jx2.php?url= 玩的嗨——53-
+
+http://jx.api.163ren.com/vod.php?url= 玩的嗨——11-
+
+http://api.wlzhan.com/sudu/?url= 玩的嗨——10-
+
+http://api.nepian.com/ckparse/?url= 玩的嗨——9-
+
+http://beaacc.com/api.php?url= 玩的嗨——8-
+
+http://api.bbbbbb.me/jx/?url= 玩的嗨——7-
+
+http://api.51ckm.com/jx.php?url= 玩的嗨——6-
+
+http://www.3aym.cn/?url= 玩的嗨——4-
+
+http://2gty.com/apiurl/yun.php?url= 玩的嗨——3-
+
+http://api.sigujx.com/?url= 玩的嗨——2-
+
+http://okjx.cc/?url= 玩的嗨——43-
+
+http://api.bingdou.net/?url== 玩的嗨——44-
+
+https://www.1717yun.com/jx/ty.php?url= 玩的嗨——46-
+
+https://api.sigujx.com/?url= 玩的嗨——47-
+
+https://vip.jaoyun.com/index.php?url= 玩的嗨——48-
+
+https://api.bbbbbb.me/jx/?url= 玩的嗨——49-
+
+https://jx.wslmf.com/?url= 玩的嗨——50-
+
+https://api.927jx.com/vip/?url= 玩的嗨——52-
+
+https://z1.m1907.cn/?jx= 玩的嗨——28-
+
+http://demo.baores.com/?url 玩的嗨——56-
+
+https://jx.70808.net/?url= 玩的嗨——56-
+
+https://www.urlkj.com/?url= 玩的嗨——56-
+
+http://jx.kukan.vip/?url= 玩的嗨——55-
+
+https://jiexi.380k.com/?url= 玩的嗨——54-B站解析接口，自行测试
+
+http://vip.wandhi.com/?v= 玩的嗨——45-
+
+
+
+http://jx.du2.cc/?url= ⑤号通用vip引擎系统【全网解析】
+
+http://jx.drgxj.com/?url= ④号通用vip引擎系统【超级稳定通用】
+
+http://jx.618ge.com/?url= ③号通用vip引擎系统【稳定通用】
+
+http://vip.jlsprh.com/?url= ②号通用vip引擎系统【稳定通用】
+
+http://jx.drgxj.com/?url= 无广告超速解析【通用】
+
+http://jx.598110.com/?url= ①号通用vip引擎系统【稳定通用】
+
+http://jx.idc126.net/jx/?url= vip超清视频解析【全网vip解析】
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+使用方法
+1、先进入视频网站，如爱奇艺、优酷、腾讯视频等，选择自己想看的视频
+2、复制浏览器地址栏的地址与下列解析地址进行组合
+3、回车自动播放
+
+https://www.kpezp.cn/jlexi.php?url= 速度挺快的*还带记忆播放
+
+https://www.ckmov.vip/api.php?url= 挺快的
+
+https://jx.youyitv.com/?url=
+
+https://z1.m1907.cn/?jx= 小卡
+
+https://jx.618g.com/?url= 速度一般
+
+https://www.1717yun.com/jx/ty.php?url= 速度还可以
+
+https://jx.618g.com/?url= 还可以
+
+https://jx.rdhk.net/?v= 速度一般
+
+https://jx.mw0.cc/?url=挺快的
+
+https://www.33tn.cn/?url= 挺快的
+
+https://okjx.cc/?url=
+
+http://www.82190555.com/index/qqvod.php?url=
+
+http://avip.fun/tv?utm_source=
+
+https://www.playm3u8.cn/jiexi.php?url= 除了常见VIP视频地址外，还支持解析QQ相册等地址
+
+均由2021年12月24日测试，测试链接为腾讯视频雪中悍刀行
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+接口地址列表
+
+
+
+https://2.08bk.com/?url=
+
+https://www.8090g.cn/jiexi/?url=
+
+https://www.administratorw.com/admin.php?url=
+
+https://660e.com/?url=
+
+https://www.pangujiexi.com/pangu/?url=
+
+https://jiexi8.com/vip/index.php?url=
+
+https://api.bingdou.net/?url=
+
+https://jx.idc126.net/jx/?url=
+
+https://jqaaa.com/jx.php?url=
+
+https://www.xymav.com/?url=
+
+http://api.bbbbbb.me/jx/?url=
+
+http://api.bbbbbb.me/yunjx/?url=
+
+http://api.bbbbbb.me/vip/?url=
+
+http://api.bbbbbb.me/yun/?url=
+
+http://api.baiyug.vip/index.php?url=
+
+http://vip.jlsprh.com/?url=
+
+http://jx.598110.com/?url=
+
+http://jx.598110.com/index.php?url=
+
+http://vip.jlsprh.com/index.php?url=
+
+http://api.nobij.top/jx/?url=
+
+https://jx.618g.com/?url=
+
+http://tv.wandhi.com/go.html?url=
+
+https://www.1717yun.com/jx/ty.php?url=
+
+https://cdn.yangju.vip/k/?url=
+
+https://api.sigujx.com/?url=
+
+https://vip.jaoyun.com/index.php?url=
+
+https://api.bbbbbb.me/jx/?url=
+
+https://vip.mpos.ren/v/?url=
+
+https://jx.598110.com/index.php?url=
+
+https://www.kpezp.cn/jlexi.php?url=
+
+https://api.927jx.com/vip/?url=
+
+https://api.tv920.com/vip/?url=
+
+https://api.lhh.la/vip/?url=
+
+https://api.8bjx.cn/?url=
+
+https://mcncn.cn/?url=
+
+https://jx.f41.cc/?url=
+
+https://www.ckmov.vip/api.php?url=
+
+https://www.33tn.cn/?url=
+
+https://jx.1ff1.cn/?url=
+
+https://py.ha12.xyz/sos/index.php?url=
+
+http://www.82190555.com/index/qqvod.php?url=
+
+http://www.wmxz.wang/video.php?url=
+
+https://www.1717yun.com/jiexi/?url=
+
+http://jqaaa.com/jx.php?url=
+
+http://api.lequgirl.com/?url=
+
+http://api.xiuyao.me/jx/?url=
+
+https://beaacc.com/api.php?url=
+
+https://www.kkflv.com/?url=
+
+http://jx.598110.com/zuida.php?url=
+
+http://jx.598110.com/duo/index.php?url=
+
+http://api.bbbbbb.me/jiexi/?url=
+
+https://www.administratorw.com/video.php?url=
+
+http://beaacc.com/api.php?url=
+
+https://jx.lache.me/cc/?url=
+
+https://www.pangujiexi.cc/jiexi.php?url=
+
+https://vip.qi71.cn/?url=
+
+https://www.nxflv.com/?url=
+
+https://jx.618ge.com/jx/5.php?url=
+
+https://vip.jlsprh.com/?url=
+
+https://api.flvsp.com/?url=
+
+https://www.administrator5.com/admin.php?url=
+
+http://vip.26db.cn/b/?url=
+
+http://vip.26db.cn/c/?url=
+
+http://vip.26db.cn/g/?url=
+
+http://vip.26db.cn/f/?url=
+
+http://vip.26db.cn/a/?url=
+
+http://jx.idc126.net/jx/?url=
+
+http://v.yhgou.cc/2019/?url=
+
+http://okjx.cc/?url=
+
+https://api.sigujx.com/jx/?url=
+
+http://api.nobij.top/?url=
+
+https://www.jiexila.com/?url=
+
+https://jx.fuxing56.com/jiexi/?url=
+
+https://jx.youyitv.com/?url=
+
+https://www.qianyicp.com/jiexi/index.php?url=
+
+http://vip.tuidu.com/play/?url=
+
+http://www.333zx.cn/0jiexi/8090/?url=
+
+https://www.qianyicp.com/jiexi/?url=
+
+https://yun.nxflv.com/?url=
+
+http://j.zz22x.com/jx/?url=
+
+https://api.3jx.top/vip/?url=
+
+https://jiexi.380k.com/?url=
+
+http://jqaaa.com/jq3/?url=
+
+http://dhyjiexi.arpps.com/?url=
+
+http://s1y2.com/?url=
+
+https://www.cuan.la/?url=
+
+https://jqaaa.com/jq3/?url=&url=
+
+http://jx.xdiaosi.com/?url=
+
+http://www.4080jx.cc/jx/?url=
+
+https://jx.70808.net/?url=
+
+http://jx.rdhk.net/?url=
+
+https://api.xdiaosi.com/?url=
+
+http://jqaaa.com/jq3/?url=&url=
+
+http://jx.52a.ink/?url=
+
+http://www.1717yun.com/jx/ty.php?url=
+
+http://api.taovb.com/?url=
+
+https://api.927jx.com/vip/jx.php?url=
+
+http://cdn.yangju.vip/k/?url=
+
+http://www.sfsft.com/admin.php?url=
+
+https://api.jiexi.la/?url=
+
+https://atyys.com/jx.php?id=0&url=
+
+http://jx.x-99.cn/m3u8.php?url=
+
+http://api.3jx.top/vip/?url=
+
+http://www.82190555.com/video.php?url=
+
+http://api.drgxj.com/jiexi/?url=
+
+https://api.daidaitv.com/index/?url=
+
+https://www.h8jx.com/jiexi.php?url=
+
+https://api.653520.top/vip/?url=
+
+https://www.8090g.cn/beiyong/?url=
+
+http://jx.4080jx.cc/?url=
+
+http://vip.baores.com/?url=
+
+http://www.47jx.com/?url=
+
+https://vip.66parse.club/?url=
+
+https://www.8090g.cn/ceshi/?url=
+
+https://api.52jiexi.top/?url=
+
+https://jx5.178du.com//p1//?url=
+
+https://jx.178du.com/jx2.php?url=
+
+https://jx.kingtail.xyz/?url=
+
+https://api.78sy.cn/?url=
+
+https://okjx.cc/?url=
+
+https://jx.ivito.cn/?url=
+
+http://www.333zx.cn/0jiexi/nuoxun/?url=
+
+https://5.5252e.com/jx.php?url=
+
+http://api.bbbbbb.me/playm3u8/?url=
+
+https://api.v6.chat/?url=
+
+https://v.7cyd.com/vip/?url=
+
+https://5.nmgbq.com/jq1/?url=
+
+https://5.nmgbq.com/jq3/index.php?url=
+
+https://5.nmgbq.com/2/?url=
+
+https://5.nmgbq.com/jx.php?url=
+
+https://jx.urlkj.com/4080/?url=
+
+https://8090.gdkaman.com/jiexi09231/?url=
+
+https://8090.gdkaman.com/jiexi09231/jx.php?url=
+
+https://8090.gdkaman.com/jiexi09231/8090.php?url=
+
+https://8090.gdkaman.com/jiexi2019/?url=
+
+https://8090.gdkaman.com/jiexi2019/jx.php?url=
+
+https://8090.gdkaman.com/jiexi2019/8090.php?url=
+
+https://www.8090g.cn/?url=
+
+http://api.927jx.com/wab/?url=
+
+http://5.nmgbq.com/jq1/?url=
+
+https://1717.ntryjd.net/1717yun/?url=
+
+https://jiexiapi.yilans.net/jiexi2020/?url=
+
+https://vip.mcyanyu.com/index.php?url=
+
+https://ckmov.bjtjr.net/ckmov/?url=
+
+https://h8jx.bjtjr.net/h8jx.php?url=
+
+https://api.cc.hytdk.cn/v/?url=
+
+https://www.333zx.cn/0jiexi/8090/?url=
+
+https://jx.popo520.cn/jiexi/?url=
+
+https://playm3u8jx.bjtjr.net/playm3u8.2020/playm3u8.php?url=
+
+http://jx.drgxj.com/?url=
+
+https://jx.nyqty.com/?url=
+
+http://17kyun.com/api.php?url=
+
+https://17kyun.com/api.php?url=
+
+http://jx.du2.cc/?url=
+
+https://78sy.letao99.cn:997/?url=
+
+https://jx.jiubojx.com/bei/?url=&referer=
+
+https://jx.hnhsn.com/?url=
+
+https://17kyun.com/jx.php?url=
+
+https://jx.htv009.com/?url=
+
+http://vip.jlsprh.com/v/4.php?url=
+
+http://jx.618ge.com/?url=
+
+https://xmgc6.com/?url=
+
+https://www.41478.net/?url=
+
+https://jx.sigujx.com/?url=
+
+http://jx.0313555.com/?url=
+
+http://qq.peilili.com/mgjiexi/?url=
+
+https://www.playm3u8.cn/jiexi.php?url=
+
+http://vip.26db.cn/d/?url=
+
+https://jx.km58.top/jx/?url=
+
+https://www.wmxz.wang/video.php?url=
+
+https://jx.dabaiapi.com/?url=
+
+https://jiexi.fei05.xyz/?url=
+
+http://y.mt2t.com/lines?url=
+
+http://api.youoka.com/?url=
+
+https://jx.dianyingguan.cn/vip/vip.php?xlyun=
+
+https://xvip.jiubojx.com/vip/?url=
