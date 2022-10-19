@@ -108,3 +108,57 @@ admin
 软件源添加地址 https://shareman.net/appstore
 
 -------------------------------------------------
+
+野心源：http://cydia.xuyh.cn
+
+电话助手源：http://apt.htv123.com
+
+93嗨客源：http://h.933k.cn
+
+微信助手源：https://ibreak.yourepo.com
+
+Netskao源：https://repo.netskao.cn
+
+ReProvision自签源https://repo.incendo.ws
+
+Flex3官方源：http://getdelta.co
+
+Filza官方源：http://tigisoftware.com/cydia
+
+Appsync官方源：http://cydia.angelxwind.net
+
+App Admin官方源：http://beta.unlimapps.com
+
+通话录音官方源：http://limneos.net/repo
+
+Liberty Lire官方屏蔽越狱源：http://ryleyangus.com/repo
+
+packix正版插件源：http://repo.packix.com
+
+snowboard官方源：http://sparkdev.me
+
+HYI国外知名破解源：http://repo.hackyouriphone.org
+
+Cydia贴吧源：https://apt.cydiaba.cn
+
+iCleaner Pro清理缓存作者源：http://ib-soft.net/cydia
+
+igg作者源：http://aquawu.github.io/igg
+
+Clezz.com官方源：http://apt.clezz.com
+
+Auxo LE作者源：http://rpetri.ch/repo
+
+App越狱插件：https://cydiavip.com
+
+NoBetaExpire官方源：https://jakeashacks.com/cydia
+
+红v的源：http://apt.ss03.cn
+
+知网少年源：http://apt.iphoneba.cn
+
+挂件作者源：https://xenpublic.incendo.ws
+
+冷秋美化源：https://unique.yourepo.com
+
+CyDown作者源：http://julio.xarold.com
