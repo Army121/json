@@ -2,22 +2,14 @@
 "uuid":"e24b4542-ce5d-4625-b2cb-e40429945328",
 "json":[{
 "type":8,
-"name":"大师兄",
-"api":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/tvci.json"
+"name":"淘片",
+"api":"https://taopianapi.com/home/cjapi/as/mc/vod/xml"
 },{
 "type":8,
-"name":"极品直链",
-"api":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/jpys.json"
+"name":"星海",
+"api":"https://www.xhzy01.com/api.php/provide/vod/at/xml"
 },{
  "type":8,
-"name":"AGE动漫",
-"api":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/agefans.json"
-},{
- "type":8,
-"name":"独播库",
-"api":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/Duboku.json"
-},{
- "type":8,
-"name":"94神马",
-"api":"https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/94sm.json"
+"name":"快播资源",
+"api":"http://www.kuaibozy.com/api.php/provide/vod"
 }]}
