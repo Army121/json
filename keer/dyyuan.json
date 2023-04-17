@@ -72,13 +72,15 @@
       "detailurl":"https://apiyutu.com/api.php/provide/vod?ac=detail&ids=",
       "detailua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
     },
-    {"name":"🐯虎牙",
+    {
+      "name":"🐯虎牙",
      "searchurl":"https://www.huyaapi.com/api.php/provide/vod?ac=detail&wd=",
      "searchua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
      "detailurl":"https://www.huyaapi.com/api.php/provide/vod?ac=detail&ids=",
      "detailua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
     },
-    {"name":"卧龙",
+    {
+      "name":"卧龙",
      "searchurl":"https://collect.wolongzyw.com/api.php/provide/vod?ac=detail&wd=",
      "searchua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
      "detailurl":"https://collect.wolongzyw.com/api.php/provide/vod?ac=detail&ids=",
@@ -90,7 +92,8 @@
      "detailurl":"https://yhzy.cc/api.php/provide/vod?ac=detail&ids=",
      "detailua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
     },
-    {"name":"快车",
+    {
+      "name":"快车",
      "searchurl":"https://kuaichezy.com/index.php/vod/search.html?wd=",
      "searchua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
      "detailurl":"https://kuaichezy.com/index.php/vod/detail/id=",
@@ -408,7 +411,8 @@
       "detailjs": "//a/span/text()",
       "detailjsurl": "//a/@href"
     },
-    {"name":"兄弟视频",
+    {
+      "name":"兄弟视频",
      "searchUrl":"https://brovod.com",
      "searchUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
      "playUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -419,7 +423,8 @@
      "searchstarr":"//div[@class=&&&video-info-item&&&]/text()",
      "detaillist":"//div[@class=&&&sort-item&&&]",
      "detailxl":"//div[@class=&&&module-tab-content&&&]/div/@data-dropdown-value",
-     "detailjs":"//a/text()","detailjsurl":"//a/@href"},
+     "detailjs":"//a/text()","detailjsurl":"//a/@href"
+    },
     {
       "name": "海外剧线",
       "searchUrl": "https://www.zxzj.pro",
@@ -483,7 +488,8 @@
       "detailjs": "//a/text()",
       "detailjsurl": "//a/@href"
     },
-    {"name":"九酷影视",
+    {
+      "name":"九酷影视",
      "searchUrl":"https://jiuku.site",
      "searchUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
      "playUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -675,7 +681,7 @@
       "detaillist":"//ul[@class=&&&stui-play__list clearfix&&&]/text()",
       "detailxl":"//ul[@class=&&&tab-top play-tab clearfix&&&]/text()",
       "detailjs":"//a/text()","detailjsurl":"//a/@href"
-    }
+    },
     {
       "name":"皮皮鸭影视🦆1",
       "searchUrl":"https://www.pipiya.cc",
