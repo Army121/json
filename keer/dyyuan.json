@@ -57,80 +57,80 @@
       "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
       "detailurl": "https://api.foxzyapi.com/api.php/provide/vod/?ac=detail&ids=",
       "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
-    }
+    },
     {
       "name":"🚗佳丽资源",
       "searchurl":"https://jializyzapi.com/api.php/provide/vod?ac=detail&wd=",
       "searchua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
       "detailurl":"https://jializyzapi.com/api.php/provide/vod?ac=detail&ids=",
       "detailua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
-     }
+     },
     {
       "name":"玉兔🐇",
       "searchurl":"https://apiyutu.com/api.php/provide/vod?ac=detail&wd=",
       "searchua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
       "detailurl":"https://apiyutu.com/api.php/provide/vod?ac=detail&ids=",
       "detailua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
-    }
+    },
     {"name":"🐯虎牙",
      "searchurl":"https://www.huyaapi.com/api.php/provide/vod?ac=detail&wd=",
      "searchua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
      "detailurl":"https://www.huyaapi.com/api.php/provide/vod?ac=detail&ids=",
      "detailua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
-    }
+    },
     {"name":"卧龙",
      "searchurl":"https://collect.wolongzyw.com/api.php/provide/vod?ac=detail&wd=",
      "searchua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
      "detailurl":"https://collect.wolongzyw.com/api.php/provide/vod?ac=detail&ids=",
      "detailua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
-    }
+    },
     {"name":"樱花资源",
      "searchurl":"https://yhzy.cc/api.php/provide/vod?ac=detail&wd=",
      "searchua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
      "detailurl":"https://yhzy.cc/api.php/provide/vod?ac=detail&ids=",
      "detailua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
-    }
+    },
     {"name":"快车",
      "searchurl":"https://kuaichezy.com/index.php/vod/search.html?wd=",
      "searchua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
      "detailurl":"https://kuaichezy.com/index.php/vod/detail/id=",
      "detailua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
-    }
+    },
     {
       "name":"飘花电影",
       "searchurl":"http://www.zzrhgg.com/api.php/provide/vod?ac=detail&wd=",
       "searchua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
       "detailurl":"http://www.zzrhgg.com/api.php/provide/vod?ac=detail&ids=",
       "detailua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
-    }
+    },
     {
       "name":"新浪",
       "searchurl":"http://api.xinlangapi.com/xinlangapi.php/provide/vod?ac=detail&wd=",
       "searchua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
       "detailurl":"http://api.xinlangapi.com/xinlangapi.php/provide/vod?ac=detail&ids=",
       "detailua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
-    }
+    },
     {
       "name":"鸡婆",
       "searchurl":"https://www.jipo.tv/api.php/provide/vod?ac=detail&wd=",
       "searchua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
       "detailurl":"https://www.jipo.tv/api.php/provide/vod?ac=detail&ids=",
       "detailua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
-    }
+    },
     {
       "name":"影库",
       "searchurl":"https://api.ykapi.net/api.php/provide/vod?ac=detail&wd=",
       "searchua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
       "detailurl":"https://api.ykapi.net/api.php/provide/vod?ac=detail&ids=",
       "detailua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
-    }
+    },
     {
       "name":"小艺动漫",
       "searchurl":"http://xydm.baicai.buzz/mogai_api.php/v1.vod?wd=",
       "searchua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
       "detailurl":"http://xydm.baicai.buzz/mogai_api.php/v1.vod/detail?vod_id=",
       "detailua":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
-    }
+    },
     {
       "name":"高三影视",
       "searchurl":"https://www.gaosan.tv/api.php/provide/vod?ac=detail&wd=",
@@ -494,7 +494,8 @@
      "searchstarr":"//span[@class='cor5 thumb-blurb hide2']/text()",
      "detaillist":"//ul[@class='anthology-list-play size']",
      "detailxl":"//div[@class='swiper-wrapper']/a/text()",
-     "detailjs":"//li/a/text()","detailjsurl":"//li/a/@href"},
+     "detailjs":"//li/a/text()","detailjsurl":"//li/a/@href"
+    },
     {
       "name": "米❤️电影",
       "searchUrl": "https://www.miai9.cc",
@@ -545,8 +546,8 @@
       "detailxl": "//*[@id=&&&y-playList&&&]/div/span/text()",
       "detailjs": "//a/span/text()",
       "detailjsurl": "//a/@href"
-    }
-          {
+    },
+     {
       "name":"野荷塘",
       "searchUrl":"https://yehetang.cc",
       "searchUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -560,7 +561,7 @@
       "detailxl":"//div[@class='mdui-panel-item-title']/text()",
       "detailjs":"//a/text()",
       "detailjsurl":"//a/@href"
-      }
+      },
      {
        "name":"🍅番茄影视",
        "searchUrl":"https://www.tjomet.com",
@@ -575,7 +576,7 @@
        "detailxl":"//div[@class=&&&hl-plays-from hl-tabs swiper-wrapper clearfix&&&]/a/@alt",
        "detailjs":"//li/a/text()",
        "detailjsurl":"//li/a/@href"
-     }
+     },
      {
        "name":"美视网海外线",
        "searchUrl":"https://www.mgtv.fun",
@@ -589,7 +590,7 @@
        "detaillist":"//div[@class=&&&module-play-list&&&]/div",
        "detailxl":"//*[@id=&&&y-playList&&&]/div/span/text()",
        "detailjs":"//a/span/text()","detailjsurl":"//a/@href"
-     }
+     },
      {
        "name":"九酷影视",
        "searchUrl":"https://jiuku.site",
@@ -604,7 +605,7 @@
        "detailxl":"//div[@class='swiper-wrapper']/a/text()",
        "detailjs":"//li/a/text()",
        "detailjsurl":"//li/a/@href"
-     }
+     },
     {
       "name":"在线之家",
       "searchUrl":"https://www.zxzjhd.com",
@@ -618,7 +619,7 @@
       "detaillist":"//ul[@class='stui-content__playlist clearfix']",
       "detailxl":"//div[@class='stui-vodlist__head']/h3/text()",
       "detailjs":"//li/a/text()","detailjsurl":"//li/a/@href"
-    }
+    },
     {
       "name":"量子影视",
       "searchUrl":"http://www.lzizy9.com","searchUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -631,8 +632,8 @@
       "detaillist":"//div[@class=&&&sort-item&&&]",
       "detailxl":"//div[@class=&&&module-tab-content&&&]/div/@data-dropdown-value",
       "detailjs":"//a/text()",
-      "detailjsurl":"//a/@href"
-    }
+      ",detailjsurl":"//a/@href"
+    },
     {
       "name":"兔兔",
       "searchUrl":"https://tushijiav3.xyz","searchUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -645,7 +646,7 @@
       "detaillist":"//div[@class=&&&play-btn-group&&&]/text()",
       "detailxl":"//div[@class=&&&item line&&&]/text()",
       "detailjs":"//div/a/text()","detailjsurl":"//div/a/@href"
-    }
+    },
     {
       "name":"北川影视⭐️",
       "searchUrl":"https://www.bczhuiju.com",
@@ -660,7 +661,7 @@
       "detailxl":"//*[@id=&&&y-playList&&&]/div/span/text()",
       "detailjs":"//a/text()",
       "detailjsurl":"//a/@href"
-    }
+    },
     {
       "name":"PWXX🚗",
       "searchUrl":"https://www.pwxxx.site",
@@ -689,7 +690,7 @@
       "detailxl":"//div[@class='swiper-wrapper']/a/text()",
       "detailjs":"//li/a/text()",
       "detailjsurl":"//li/a/@href"
-    }
+    },
     {
       "name":"白狐影视🦊",
       "searchUrl":"https://www.bhxoxo.com",
@@ -704,7 +705,7 @@
       "detailxl":"//*[@id=&&&y-playList&&&]/div/span/text()",
       "detailjs":"//a/text()",
       "detailjsurl":"//a/@href"
-    }
+    },
     {
       "name":"追剧达人",
       "searchUrl":"https://zhuijudr.com",
@@ -719,7 +720,7 @@
       "detailxl":"//*[@id=&&&y-playList&&&]/div/span/text()",
       "detailjs":"//a/span/text()",
       "detailjsurl":"//a/@href"
-    }
+    },
      {
        "name":"星空影视⭐️",
        "searchUrl":"https://xkys.tv",
@@ -734,7 +735,7 @@
        "detailxl":"//div[@class='swiper-wrapper']/a/text()",
        "detailjs":"//li/a/text()",
        "detailjsurl":"//li/a/@href"
-     }
+     },
      {
        "name":"泡泡TV",
        "searchUrl":"https://paotv.net",
@@ -749,7 +750,7 @@
        "detailxl":"//*[@id=&&&y-playList&&&]/div/span/text()",
        "detailjs":"//a/text()",
        "detailjsurl":"//a/@href\"    "
-     }
+     },
      {
        "name":"看B站视频。",
        "searchUrl":"https://kanb.tv",
@@ -764,7 +765,7 @@
        "detailxl":"//div[@class=&&&hl-plays-from hl-tabs swiper-wrapper clearfix&&&]/a/@alt",
        "detailjs":"//li/a/text()",
        "detailjsurl":"//li/a/@href"
-     }
+     },
      {
        "name":"蜥蜴视频",
        "searchUrl":"https://xi1.net",
@@ -778,7 +779,7 @@
        "detaillist":"//div[@class=&&&hl-list-wrap&&&]/ul",
        "detailxl":"//div[@class=&&&hl-plays-from hl-tabs swiper-wrapper clearfix&&&]/a/@alt",
        "detailjs":"//li/a/text()","detailjsurl":"//li/a/@href"
-     }
+     },
      {
        "name":"皮皮鸭🦆1",
        "searchUrl":"https://www.pipiya.cc",
@@ -793,7 +794,7 @@
        "detailxl":"//div[@class='swiper-wrapper']/a/text()",
        "detailjs":"//li/a/text()",
        "detailjsurl":"//li/a/@href"
-     }
+     },
      {
        "name":"40影院",
        "searchUrl":"https://40tl.com",
@@ -808,7 +809,7 @@
        "detailxl":"//div[@class=&&&module-tab-content&&&]/div/@data-dropdown-value",
        "detailjs":"//a/text()",
        "detailjsurl":"//a/@href"
-     }
+     },
      {
        "name":"宝片视频",
        "searchUrl":"https://zpsps.com",
@@ -823,7 +824,7 @@
        "detailxl":"//div[@class='swiper-wrapper']/a/text()",
        "detailjs":"//li/a/text()",
        "detailjsurl":"//li/a/@href"
-     }
+     },
      {
        "name":"7喜",
        "searchUrl":"https://7xi.tv",
@@ -838,7 +839,7 @@
        "detailxl":"//div[@class=&&&hl-plays-from hl-tabs swiper-wrapper clearfix&&&]/a/@alt",
        "detailjs":"//li/a/text()",
        "detailjsurl":"//li/a/@href"
-     }
+     },
      {
        "name":"渣渣辉",
        "searchUrl":"https://www.yingzhazha.com",
@@ -853,7 +854,7 @@
        "detailxl":"//*[@id=&&&y-playList&&&]/div/span/text()",
        "detailjs":"//a/text()",
        "detailjsurl":"//a/@href"
-     }
+     },
      {
        "name":"纽约影院",
        "searchUrl":"https://www.nycvod.com",
@@ -868,8 +869,9 @@
        "detailxl":"//div[@class='swiper-wrapper']/a/text()",
        "detailjs":"//li/a/text()",
        "detailjsurl":"//li/a/@href"
-     }
-     {"name":"TOM",
+     },
+     {
+       "name":"TOM",
       "searchUrl":"https://tomziyuan.com",
       "searchUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
       "playUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
@@ -882,7 +884,7 @@
       "detailxl":"//div[@class='mdui-panel-item-title']/text()",
       "detailjs":"//a/text()",
       "detailjsurl":"//a/@href"
-     }
+     },
      {
        "name":"稀饭影视",
        "searchUrl":"https://www.xifanys.com",
@@ -897,7 +899,7 @@
        "detailxl":"//div[@class=&&&module-tab-content&&&]/div/span/text()",
        "detailjs":"//a/span/text()",
        "detailjsurl":"//a/@href"
-     }
+     },
      {
        "name":"🦆鸭奈飞",
        "searchUrl":"https://yanaifei.tv",
@@ -912,7 +914,7 @@
        "detailxl":"//*[@id=&&&y-playList&&&]/div/span/text()",
        "detailjs":"//a/span/text()",
        "detailjsurl":"//a/@href\"    "
-     }
+     },
      {
        "name":"333影视",
        "searchUrl":"https://jinmantv.com",
@@ -927,7 +929,7 @@
        "detailxl":"//*[@id=&&&y-playList&&&]/div/span/text()",
        "detailjs":"//a/span/text()",
        "detailjsurl":"//a/@href"
-     }
+     },
      {
        "name":"234影院",
        "searchUrl":"https://www.ikan234.com",
@@ -942,7 +944,7 @@
        "detailxl":"//div[@class='stui-pannel__head bottom-line active clearfix']/h3/text()",
        "detailjs":"//li/a/text()",
        "detailjsurl":"//li/a/@href"
-     }
+     },
      {
        "name":"花花影院🌺",
        "searchUrl":"https://hua355.vip",
@@ -957,7 +959,7 @@
        "detailxl":"//*[@id=&&&y-playList&&&]/div/span/text()",
        "detailjs":"//a/text()",
        "detailjsurl":"//a/@href"
-     }
+     },
      {
        "name":"热播之家⭐️",
        "searchUrl":"https://rebozj.pro",
@@ -972,7 +974,7 @@
        "detailxl":"//ul[@class=&&&nav nav-tabs  dpplay pull-right&&&]/text()",
        "detailjs":"//li/a/text()",
        "detailjsurl":"//li/a/@href"
-     }
+     },
      {
        "name":"91free",
        "searchUrl":"https://91free.vip",
@@ -987,7 +989,7 @@
        "detailxl":"//*[@id=&&&y-playList&&&]/div/span/text()",
        "detailjs":"//a/span/text()",
        "detailjsurl":"//a/@href"
-     }
+     },
      {
        "name":"兄弟视频",
        "searchUrl":"https://brovod.com",
@@ -1002,7 +1004,7 @@
        "detailxl":"//div[@class=&&&module-tab-content&&&]/div/@data-dropdown-value",
        "detailjs":"//a/text()",
        "detailjsurl":"//a/@href"
-     }
+     },
      {
        "name":"飞🐤影视",
        "searchUrl":"https://www.fntv.cc",
@@ -1017,7 +1019,7 @@
        "detailxl":"//div[@class=&&&module-tab-content&&&]/div/@data-dropdown-value",
        "detailjs":"//a/text()",
        "detailjsurl":"//a/@href"
-     }
+     },
      {
        "name":"大师兄影视⭐️",
        "searchUrl":"https://dsxys.pro",
@@ -1032,7 +1034,7 @@
        "detailxl":"//*[@id=&&&y-playList&&&]/div/span/text()",
        "detailjs":"//a/span/text()",
        "detailjsurl":"//a/@href"
-     }
+     },
      {
        "name":"伊人追剧⭐️",
        "searchUrl":"https://www.yrzj.tv",
@@ -1047,7 +1049,7 @@
        "detailxl":"//*[@id=&&&y-playList&&&]/div/span/text()",
        "detailjs":"//a/span/text()",
        "detailjsurl":"//a/@href"
-     }
+     },
      {
        "name":"土豪影视",
        "searchUrl":"https://www.tuhao.tv",
@@ -1062,7 +1064,7 @@
        "detailxl":"//div[@class=&&&module-tab-content&&&]/div/@data-dropdown-value",
        "detailjs":"//a/text()",
        "detailjsurl":"//a/@href"
-     }
+     },
      {
        "name":"素白白影视⭐️",
        "searchUrl":"https://www.subaibaiys.com",
@@ -1077,7 +1079,7 @@
        "detailxl":"//div[@class=&&&ypxingq_t&&&]/span/text()",
        "detailjs":"//a/text()",
        "detailjsurl":"//a/@href"
-     }
+     },
      {
        "name":"爱看影视⭐️",
        "searchUrl":"https://www.2wyy.com",
@@ -1092,7 +1094,7 @@
        "detailxl":"//*[@id=&&&y-playList&&&]/div/span/text()",
        "detailjs":"//a/text()",
        "detailjsurl":"//a/@href"
-     }
+     },
      {
        "name":"两个BT⭐️",
        "searchUrl":"https://www.bttwoo.com",
@@ -1107,7 +1109,7 @@
        "detailxl":"//div[@class=&&&ypxingq_t&&&]/span/text()",
        "detailjs":"//a/text()",
        "detailjsurl":"//a/@href"
-     }
+     },
      {
        "name":"爱弹幕⭐️⭐️",
        "searchUrl":"https://anime.girigirilove.com",
@@ -1122,7 +1124,7 @@
        "detailxl":"//div[@class='swiper-wrapper']/text()",
        "detailjs":"//li/a/text()",
        "detailjsurl":"//li/a/@href"
-     }
+     },
      {
        "name":"指尖电影⭐️",
        "searchUrl":"http://47.242.17.56",
