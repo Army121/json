@@ -175,13 +175,6 @@
       "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
       "detailurl": "https://api.apibdzy.com/api.php/provide/vod/?ac=detail&ids=",
       "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
-    },
-        {
-      "name": "酷点资源",
-      "searchurl": "https://kudian10.com/index.php/vod/?ac=detail&wd=",
-      "searchua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
-      "detailurl": "https://kudian10.com/index.php/vod/?ac=detail&ids=",
-      "detailua": "User-Agent#Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36"
     }
   ],
 
@@ -1202,6 +1195,96 @@
       "detailxl": "//div[@class=&&&pannel_head clearfix&&&]/h3/text()",
       "detailjs": "//li/a/text()",
       "detailjsurl": "//li/a/@href"
+    },
+    {
+     "name":"auete影视",
+     "searchUrl":"https://auete.org",
+     "searchUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+     "playUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+     "websearchurl":"https://auete.org/aueteso.php?searchword=",
+     "searchname":"//span[@class='text-danger']/text()",
+     "searchid":"//div[@class='subject break-all']/a/@href",
+     "searchpic":"//img/@src",
+     "searchstarr":"//span[@class='text-danger']/text()",
+     "detaillist":"//div[@id='player_list']/ul",
+     "detailxl":"//h2[@class='title border-top border-bottom mb-3 pt-2 pb-2']/text()",
+     "detailjs":"//li/a/text()",
+     "detailjsurl":"//li/a/@href"
+    },
+    {
+      "name":"HOHO视频",
+      "searchUrl":"https://www.hoho.tv",
+      "searchUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+      "playUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+      "websearchurl":"https://www.hoho.tv/vod/search.html?wd=",
+      "searchname":"//a[@class='video-serial']/@title",
+      "searchid":"//div[@class='video-info-header']/h3/a/@href",
+      "searchpic":"//img[@class='lazy lazyload']/@data-src",
+      "searchstarr":"//div[@class='video-info-item']/text()",
+      "detaillist":"//div[@class='module-blocklist')]/div",
+      "detailxl":"//*[starts-with(@class='module-tab-item tab-item')]/text()",
+      "detailjs":"//a/text()",
+      "detailjsurl":"//a/@href"
+    },
+    {
+      "name":"LIBVIO",
+      "searchUrl":"https://www.libvio.me",
+      "searchUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+      "playUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+      "websearchurl":"https://www.libvio.me/search/-------------.html?wd=",
+      "searchname":"//a[@class='stui-vodlist__thumb lazyload']/@title",
+      "searchid":"//a[@class='stui-vodlist__thumb lazyload']/@href",
+      "searchpic":"//a[@class='stui-vodlist__thumb lazyload']/@data-original",
+      "searchstarr":"//a[@class='stui-vodlist__thumb lazyload']/@title",
+      "detaillist":"//ul[@class='stui-content__playlist clearfix']",
+      "detailxl":"//h3[@class='iconfont icon-iconfontplay2']/text()",
+      "detailjs":"//li/a/text()",
+      "detailjsurl":"//li/a/@href"
+    },
+    {
+      "name":"独播库⭐️",
+      "searchUrl":"https://u.duboku.io",
+      "searchUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+      "playUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+      "websearchurl":"https://u.duboku.io/vodsearch/-------------.html?wd=",
+      "searchname":"//h4[@class='title']/text()",
+      "searchid":"//h4[@class='title']/a/@href",
+      "searchpic":"//div[@class='thumb']/a/@data-original",
+      "searchstarr":"//span[@class='text-muted']/text()",
+      "detaillist":"//div[@class='tab-content myui-panel_bd']",
+      "detailxl":"//ul[@class='nav nav-tabs active']/text()",
+      "detailjs":"//li/a/text()",
+      "detailjsurl":"//li/a/@href"
+    },
+    {
+      "name":"看片狂人",
+      "searchUrl":"https://www.kpkuang.fun",
+      "searchUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+      "playUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+      "websearchurl":"https://www.kpkuang.fun/vodsearch/-------------.html?wd=",
+      "searchname":"//div[@class='fed-deta-images fed-list-info uk-card uk-card-small uk-card-default']/a/@title",
+      "searchid":"//div[@class='fed-deta-images fed-list-info uk-card uk-card-small uk-card-default']/a/@href",
+      "searchpic":"//div[@class='fed-deta-images fed-list-info uk-card uk-card-small uk-card-default']/a/@data-original",
+      "searchstarr":"//div[@class='fed-deta-images fed-list-info uk-card uk-card-small uk-card-default']/a/@title",
+      "detaillist":"//li[starts-with@class='fed-play-item fed-drop-item']",
+      "detailxl":"//a[@class='fed-btns-info fed-rims-info fed-part-eone line-select']/@data-linename",
+      "detailjs":"//ul[2]/li/a/text()",
+      "detailjsurl":"//ul[2]/li/a/@href"
+    },
+    {
+      "name":"影视工厂",
+      "searchUrl":"https://www.ysgc.fun",
+      "searchUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+      "playUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+      "websearchurl":"https://www.ysgc.fun/rss.xml?wd=",
+      "searchname":"//item/title/text()",
+      "searchid":"//item/link/text()",
+      "searchpic":"https://www.ysgc.fun/template/mytheme/statics/image/20230123/6f199396a.png",
+      "searchstarr":"//item/description/text()",
+      "detaillist":"//ul[@class='myui-content__list scrollbar sort-list clearfix']",
+      "detailxl":"//img[@class='w-6 h-6 rounded-full mr-1']/../text()",
+      "detailjs":"//li/a/text()",
+      "detailjsurl":"//li/a/@href"
     }
   ],
 
