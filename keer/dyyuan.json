@@ -1412,6 +1412,36 @@
       "detailxl":"//*[@id=&&&y-playList&&&]/div/span/text()",
       "detailjs":"//a/span/text()",
       "detailjsurl":"//a/@href"
+    },
+    {
+     "name":"KOK影视",
+     "searchUrl":"https://www.kokyy.com",
+     "searchUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+     "playUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+     "websearchurl":"https://www.kokyy.com/kokso.html?wd=",
+     "searchname":"//div[@class='movie-title txtHide txtHide']/text()",
+     "searchid":"//div[@class='box flex']/a/@href",
+     "searchpic":"//div[@class='movie-post-lazyload Lazy br']/@data-original",
+     "searchstarr":"//div[@class='meta getop txtHide']//text()",
+     "detaillist":"//div[@class='playlist_notfull']",
+     "detailxl":"//div[@class='swiper-wrapper']/a/text()",
+     "detailjs":"//li/a/text()",
+     "detailjsurl":"//li/a/@href"
+    },
+    {
+      "name":"KFC电影",
+      "searchUrl":"https://www.kfcdy.com",
+      "searchUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+      "playUA":"Mozilla/5.0 (Linux; Android 12; Redmi K30 Pro Build/SKQ1.220303.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/99.0.4844.88 Mobile Safari/537.36",
+      "websearchurl":"https://www.kfcdy.com/vodsearch/-------------.html/?wd=",
+      "searchname":"//div[@class=&&&module-card-item-title&&&]/a/strong/text()",
+      "searchid":"//div[@class=&&&module-card-item-title&&&]/a/@href",
+      "searchpic":"//img[@class=&&&lazy lazyload&&&]/@data-original",
+      "searchstarr":"//div[@class=&&&module-item-note&&&]/text()",
+      "detaillist":"//div[@class=&&&module-play-list&&&]/div/",
+      "detailxl":"//*[@id=&&&y-playList&&&]/div/span/text()",
+      "detailjs":"//a/span/text()",
+      "detailjsurl":"//a/@href"
     }
   ],
 
