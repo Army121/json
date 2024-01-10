@@ -37,8 +37,8 @@
         "api": "https://cj.lziapi.com/api.php/provide/vod/",
     },
     {
-        "name": "ikun资源", 
-        "api": "https://ikunzyapi.com/api.php/provide/vod/",
+        "name": "ikun资源",
+        "api": "https://ikunzyapi.com/api.php/provide/vod/", 
     },
     {
         "name": "光速资源",
